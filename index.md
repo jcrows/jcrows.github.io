@@ -19,5 +19,3 @@ both raised in homeschooling families, so we feel well equipped for the challeng
 # FACING A TASK UNFINISHED
 
 When we were in Thailand we learnt about the great need there, since Buddhism is closely linked with national identity. It is a nation of 70 million people with less than one percent being Christian. Many of Thailand’s believers are located in the north, meaning that many districts across the rest of the country have no church at all, and there is no opportunity for people to hear the gospel. OMF is working hard to plant churches in unreached districts, bringing the life and hope of Christ to those who may not otherwise hear.
-
-![OMF Logo](/assets/img/omf-logo.png)
