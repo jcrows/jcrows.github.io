@@ -21,7 +21,8 @@ author: Jason and Louise Crowsen
 
 # navbar-links:
 Home: "index"
-Partner with us: "index/#how-you-can-partner-with-us"
+Subscribe: "subscribe"
+# Partner with us: "index/#how-you-can-partner-with-us"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
