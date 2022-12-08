@@ -20,6 +20,9 @@ both raised in homeschooling families, so we feel well equipped for the challeng
 
 When we were in Thailand we learnt about the great need there, since Buddhism is closely linked with national identity. It is a nation of 70 million people with less than one percent being Christian. Many of Thailand’s believers are located in the north, meaning that many districts across the rest of the country have no church at all, and there is no opportunity for people to hear the gospel. OMF is working hard to plant churches in unreached districts, bringing the life and hope of Christ to those who may not otherwise hear.
 
+![Jason and Louise standing by rice paddy with buddha statue in background](/assets/img/20180904_161933747.jpg)
+
+
 # HOW YOU CAN PARTNER WITH US
 Cross-cultural ministry is not something we can do alone; being part of a team is vital. We would be privileged to have you share with us in this adventure.
 
@@ -73,6 +76,6 @@ We are in a spiritual battle, with Satan continually looking for ways to comprom
 <!--End mc_embed_signup-->
 
 ## FINANCIAL SUPPORT
-We are trusting God to provide for our needs as we make steps towards serving in Thailand. Financial support is a practical way that you can partner with us, enabling us to go and share Christ’s love overseas. If you would like to be part of our support team, head to https://omf.org/en/web/nz/giving to find out how to get set up.
+We are trusting God to provide for our needs as we make steps towards serving in Thailand. Financial support is a practical way that you can partner with us, enabling us to go and share Christ’s love overseas. If you would like to be part of our support team, head to [the OMF website](https://omf.org/en/web/nz/giving) to find out how to get set up.
 
 Thank you for your desire to be part of our team.
