@@ -20,9 +20,9 @@ author: Jason and Louise Crowsen
 ###############################################
 
 navbar-links:
-Home: "index"
-Subscribe: "subscribe"
-# Partner with us: "index/#how-you-can-partner-with-us"
+  Home: "index"
+  Subscribe: "subscribe"
+#  Partner with us: "index/#how-you-can-partner-with-us"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
