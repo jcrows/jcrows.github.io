@@ -19,7 +19,7 @@ author: Jason and Louise Crowsen
 # --- List of links in the navigation bar --- #
 ###############################################
 
-# navbar-links:
+navbar-links:
 Home: "index"
 Subscribe: "subscribe"
 # Partner with us: "index/#how-you-can-partner-with-us"
