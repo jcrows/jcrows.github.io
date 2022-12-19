@@ -1,6 +1,6 @@
 ---
 layout: page
-# title: Subscribe - Travelling By Faith
+title: Subscribe
 # subtitle: Journeying towards ministry in Thailand
 # cover-img: /assets/img/TBF web header.png
 ---
