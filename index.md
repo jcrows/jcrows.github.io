@@ -63,12 +63,12 @@ We are in a spiritual battle, with Satan continually looking for ways to comprom
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ea5ffbcabbcfcaba7d24da752_339d873e05" tabindex="-1" value=""></div>
-        <div class="optionalParent">
+        <!-- <div class="optionalParent">
             <div class="clear foot">
                 <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
                 <p class="brandingLogo"><a href="http://eepurl.com/h3uWgP" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
             </div>
-        </div>
+        </div> -->
     </div>
 </form>
 </div>
