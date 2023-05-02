@@ -76,4 +76,4 @@ We are in a spiritual battle, with Satan continually looking for ways to comprom
 <!--End mc_embed_signup-->
 
 ## FINANCIAL SUPPORT
-We are trusting God to provide for our needs as we make steps towards serving in Thailand. Financial support is a practical way that you can partner with us, enabling us to go and share Christ’s love overseas. If you would like to be part of our support team, head to [the OMF website](https://omf.org/en/web/nz/giving) to find out how to get set up.
+We are trusting God to provide for our needs as we make steps towards serving in Thailand. Financial support is a practical way that you can partner with us, enabling us to go and share Christ’s love overseas. If you would like to be part of our support team, head to [the OMF website](https://omf.org/nz/giving/) to find out how to get set up.
