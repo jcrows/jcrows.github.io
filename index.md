@@ -2,7 +2,8 @@
 layout: page
 title: Travelling By Faith
 subtitle: Journeying towards ministry in Thailand
-cover-img: /assets/img/TBF-web-header-3.png #add cover image to homepage
+#cover-img: /assets/img/TBF-web-header-3.png
+#add cover image to homepage
 ---
 # OUR STORY
 
