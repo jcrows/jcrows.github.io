@@ -28,7 +28,7 @@ When we were in Thailand we learnt about the great need there, since Buddhism is
 Cross-cultural ministry is not something we can do alone; being part of a team is vital. We would be privileged to have you share with us in this adventure.
 
 ## PRAYER SUPPORT
-We are in a spiritual battle, with Satan continually looking for ways to compromise us as we seek to follow God’s call. We would appreciate your prayers as we prepare, that we may be equipped for the work ahead. Please consider receiving our regular prayer letter, or follow our faith journey on [Facebook](www.facebook.com/JSL.travellingbyfaith).
+We are in a spiritual battle, with Satan continually looking for ways to compromise us as we seek to follow God’s call. We would appreciate your prayers as we prepare, that we may be equipped for the work ahead. Please consider receiving our regular prayer letter, or follow our faith journey on [Facebook](https://www.facebook.com/JSL.travellingbyfaith).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
